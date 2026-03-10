@@ -17,7 +17,7 @@ This repository contains the end-to-end pipeline used in my Master’s thesis to
 - **`Scraper Al Jazeera.ipynb`**
   Notebook to scrape Al Jazeera articles, store raw content/metadata, and export to local files for downstream NLP.
 
-### 2) NLP baselines (lexicon, VADER, Word2Vec)
+### 2) NLP baseline (lexicon, VADER, Word2Vec)
 - **`NLP Analysis (lexicon, VADER, word2vec).ipynb`**
   Notebook containing classical NLP analysis: preprocessing, lexicon-based measures, VADER sentiment, and Word2Vec training/evaluation, including neighbor overlap outputs.
 

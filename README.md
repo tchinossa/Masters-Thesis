@@ -7,7 +7,7 @@ This repository contains the end-to-end pipeline used in my Master’s thesis to
 - Lexicon/VADER sentiment
 - Word2Vec neighbor overlap (Jaccard)
 - SBERT semantic similarity / neighbor overlap
-- LLM-based structured extraction (frames, bias signals, actors, historical context)
+- LLM-based structured extraction (frames, bias signals, historical context, actors)
 - Aggregation into outlet-level comparison tables
 
 ### 1) Data collection (scraping)

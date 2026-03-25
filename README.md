@@ -1,5 +1,5 @@
 # Masters-Thesis
-Code for all analysis performed for my Masters' thesis (Framing and Bias in Media Coverage of the Israel – Palestine Conflict after October 7, 2023: A Comparative NLP-Based Analysis of CNN and Al Jazeera)
+Thesis + Code for all analysis performed for my Masters' thesis (Framing and Bias in Media Coverage of the Israel – Palestine Conflict after October 7, 2023: A Comparative NLP-Based Analysis of CNN and Al Jazeera)
 
 
 This repository contains the end-to-end pipeline used in my Master’s thesis to collect news articles from CNN and Al Jazeera and compare outlet-level traits using:
